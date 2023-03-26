@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benbellah-Owino
-- 👀 I’m interested in Website development
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on front end development
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning rust
+- 💞️ I work mainly with Svelte.JS ,express.JS and mongoDB(i've worked with POSTGRES and MySql)
 - 📫 How to reach me : email- owinobenbellah@gmail.com   whatsapp-0796976663
 - 
 
